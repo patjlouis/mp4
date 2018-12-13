@@ -2,7 +2,7 @@
   "profiles": {
     "app": {
    "commandName": "Project",
-   "launchBrowser": false,
+   "launchBrowser": true,
    "applicationUrl": "http://insight.local:80",
    "environmentVariables": {
      "ASPNETCORE_ENVIRONMENT": "Development"
