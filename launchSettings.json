@@ -3,7 +3,7 @@
     "app": {
    "commandName": "Project",
    "launchBrowser": false,
-   "applicationUrl": "http://insight.local:1433",
+   "applicationUrl": "http://insight.local:80",
    "environmentVariables": {
      "ASPNETCORE_ENVIRONMENT": "Development"
     },
