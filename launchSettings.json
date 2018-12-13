@@ -6,8 +6,7 @@
    "applicationUrl": "http://insight.local:1433",
    "environmentVariables": {
      "ASPNETCORE_ENVIRONMENT": "Development"
-   }
-},
+      },
     }
   }
 }
